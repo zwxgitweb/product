@@ -3,7 +3,7 @@
  * @Author: Florence
  * @Date: 2020-10-19 13:34:16
  * @Last Modified By: Florence
- * @LastEditTime: 2020-10-19 14:32:34
+ * @LastEditTime: 2020-10-19 16:50:53
 -->
 
 ### node的概念
@@ -40,4 +40,4 @@ http.createServer((req, res) => {
 ```
 
 // 4. 打开文件所在的终端执行以下命令
-$ nodemon 文件名(index.js)
+$ nodemon index.js(文件名)
